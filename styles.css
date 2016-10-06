@@ -1,3 +1,12 @@
 body {
 	background-color: #f8a138;
 }
+
+p {
+
+	color: yellow;
+}
+
+.title {
+	color: black;
+}
