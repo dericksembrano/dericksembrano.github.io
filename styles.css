@@ -4,9 +4,15 @@ body {
 
 p {
 
-	color: black;
+	color: white;
 }
 
 .title {
 	color: white;
+}
+
+a {
+
+color: white;
+
 }
