@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Main Page</title>
+        <link type="text/css" href="/styles.css" media="all" rel="stylesheet">
+        
+
+    </head>
+    <body>
+
+
+<h1 title="I'm an html practice website" class="title">Html Practice Website</h1>
+<h2 class="title">Html Practice Website</h2>
+<h3 class="title">Html Practice Website</h3>
+<hr>
+<p title="I'm a paragraph"> This is a paragraph. </p>
+<p> This is another paragraph. </p>
+<a href="https://www.youtube.com/watch?v=BorZc59aqAg"> This is a link to Game Grumps <a>
+	<hr>
+	<br>
+	<br>
+	<img src="Journal Cover.jpg" alt="Journal Cover" style="width:304px;height:430px;">
+<hr>
+	<h1 class="title"> This is a heading </h1>
+	<p> This is some text </p>
+	<hr>
+
+	<h2 class="title"> This is another heading </h2>
+	<p> This is some more text </p>
+	<hr>
+
+	<h3 class="title"> And another heading </h3>
+	<p> Another bit of text </p>
+	<hr>
+
+	<pre> 
+	This is a pre element paragraph
+
+	This is a pre element paragraph
+
+	This is a pre element paragraph
+    </pre>
+    <hr>
+
+    <p style="color:red;"> This is some red text </p>
+    <p style="color:blue;"> This is some blue text </p>
+    <p style="color:yellow;"> This is some yellow text </p>
+<hr>
+    <h1 style="font-family:comic sans ms"> This header is in comic sans </h1>
+    <h1 style="font-family:Marker Felt;color:green;"> This header is in marker felt and is also green</h1>
+<hr>
+    <p> Some text </p>
+    <p style="font-size:150%;"> Bigger text </p>
+<hr>
+    <h1 style="text-align:center;"> This header is centered </h1>
+    <p style="text-align:right;"> This bit of text is on the right side of the screen </p>
+<hr>
+
+    <p> This is some text </p>
+    <b> This text is bold </b>
+    <br>
+    <br>
+    <strong> This is some important text</strong>
+    <br>
+    <br>
+    <i> This text is in italics </i>
+    <br>
+    <br>
+    <em> This text is emphasized </em>
+    <br>
+    <br>
+    <mark> This text is marked </mark>
+    <br>
+    <br>	
+    <mark style="background-color:#FF00E7;"> This text is marked in pink </mark>
+    <br>
+    <br>
+    <small> This text is small </small>
+    <br>
+    <br>
+    <del> This text has been deleted </del>
+    <br>
+    <br>
+    <ins> This text has been inserted </ins>
+    <br>
+    <br>
+    <p>This is some <sub> subscripted </sub> text </p>
+    
+   
+    <p>This is some <sup> superscripted </sup> text </p>
+<hr>
+    <p>"This is a quote"</p>
+    <q>This is another quote</q>
+    <p> <cite> The Game Grumps: </cite> </p>
+    <blockquote cite="https://www.youtube.com/user/GameGrumps/about"> Game Grumps: Dan and Arin playin' games. Always. 10am and 2pm every day.<br>Steam Train: Any of the Grumps (but mostly Ross) playing PC games. Sometimes 12pm every day.<br>Grumpcade: Any of the Grumps playing console games. Maybe a guest? Sometimes 12pm every day </blockquote>
+    <p>The <abbr title="The Game Grumps">GG</abbr> are a bunch of people who play games n' stuff</p>
+    <address> Written by Bob Jones. <br> Visit us at: <br> Website.com <br> 1234 Street, Street, Zimbabwe</address>
+    <p> <cite style="color:orange;">The Game Grumps</cite> By Arin Hanson and Jon Jafari. </p>
+    <bdo dir="rtl"> This text is left to right </bdo>
+    <hr>
+    <code>This tag is useful for displaying computer code</code>
+    <br>
+    <br>
+    <kbd>This tag is useful for defining keyboard input</kbd>
+    <br>
+    <br>
+    <samp>This tag is useful for displaying output from a computer program</samp>
+    <br>
+    <p>This tag is useful for displaying variables in a mathematical expression or in a programming context <br> e.g.  <var>E</var> = <var>m</var> <var>c</var> <sup>2</sup></p>
+    <hr>
+    <h1>This is a normal heading nothing ubnormal about it</h1>
+    <!--This is a comment which isn't displayed by the browser, but is useful for notifications and reminders in the HTML-->
+    <!--Comments are also useful for debugging HTML because you can comment out lines of code one at a time to try and find the errors-->
+    <!--Conditional comments defines some HTML tags to be executed by Internet Explorer only-->
+    <hr>
+
+    <h1 style="color:red;">This is a red heading</h1>
+    <h1 style="font-family:comic sans ms;">This heading is in comic sans</h1>
+    <h1 style="font-size:250%;">This heading is a little bit bigger than the others</h1>
+    <h1 style="border:1px solid white;">This heading has a border around it</h1>
+    <p style="border:1px solid white; padding:30px; font-size">This paragraph has a border around it, but has padding around it aswell which means there is more space between the header and the border</p>
+    <p style="border:1px solid white; margin:50px;">This paragraph has a border around it aswell, but has a margin on the outside of the border which means there's more space outside the border</p>
+    <p id="dfp">This paragraph is different because it has an id</p>
+    <p class="diffpara">This paragraph is also different, not because it has an id but because it has a class attribute</p>
+
+
+
+
+
+
+   
+
+
+
+
+
+    </body>
+</html>
